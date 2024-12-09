@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|c:\\users\\labro\\downloads\\travailpratique2_maxence_sabatier\\travailpratique2\\travailpratique2\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|solutionrelative:travailpratique2\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|c:\\users\\labro\\downloads\\travailpratique2_maxence_sabatier\\travailpratique2\\travailpratique2\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|solutionrelative:travailpratique2\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|c:\\users\\labro\\downloads\\travailpratique2_maxence_sabatier\\travailpratique2\\travailpratique2\\applicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|solutionrelative:travailpratique2\\applicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|c:\\users\\labro\\downloads\\travailpratique2_maxence_sabatier\\travailpratique2\\travailpratique2\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|solutionrelative:travailpratique2\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|c:\\users\\labro\\downloads\\travailpratique2_maxence_sabatier\\travailpratique2\\travailpratique2\\utilitaires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|solutionrelative:travailpratique2\\utilitaires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|c:\\users\\labro\\downloads\\travailpratique2_maxence_sabatier\\travailpratique2\\travailpratique2\\travailpratique2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBF3F08F-6EAD-4CF0-8561-36E50AEC7F35}|TravailPratique2\\TravailPratique2.csproj|solutionrelative:travailpratique2\\travailpratique2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationForm.cs",
+              "DocumentMoniker": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "TravailPratique2\\ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\ApplicationForm.cs",
+              "RelativeToolTip": "TravailPratique2\\ApplicationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:29:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\ApplicationForm.Designer.cs",
+              "RelativeDocumentMoniker": "TravailPratique2\\ApplicationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\ApplicationForm.Designer.cs",
+              "RelativeToolTip": "TravailPratique2\\ApplicationForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:29:52.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationForm.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "TravailPratique2\\ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\ApplicationForm.cs [Conception]",
+              "RelativeToolTip": "TravailPratique2\\ApplicationForm.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:29:50.636Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\Departement.cs",
+              "RelativeDocumentMoniker": "TravailPratique2\\Departement.cs",
+              "ToolTip": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\Departement.cs",
+              "RelativeToolTip": "TravailPratique2\\Departement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:29:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilitaires.cs",
+              "DocumentMoniker": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\Utilitaires.cs",
+              "RelativeDocumentMoniker": "TravailPratique2\\Utilitaires.cs",
+              "ToolTip": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\Utilitaires.cs",
+              "RelativeToolTip": "TravailPratique2\\Utilitaires.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:29:28.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TravailPratique2",
+              "DocumentMoniker": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\TravailPratique2.csproj",
+              "RelativeDocumentMoniker": "TravailPratique2\\TravailPratique2.csproj",
+              "ToolTip": "C:\\Users\\labro\\Downloads\\TravailPratique2_Maxence_SABATIER\\TravailPratique2\\TravailPratique2\\TravailPratique2.csproj",
+              "RelativeToolTip": "TravailPratique2\\TravailPratique2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T15:29:04.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
